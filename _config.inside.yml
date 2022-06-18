@@ -1,0 +1,21 @@
+# Sidebar profile
+profile:
+  # 邮箱用于生成 gravatar 头像，如配置了 `hexo.config.email`，此项可缺省
+  email: hanfangyuan_ustb@163.com
+
+  # 也可以直接设置头像 URL
+  avatar: assets/images/me.jpg
+
+  # 个性签名
+  bio: The longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.
+
+menu:
+  主页: /
+  关于: /about
+  搜索: /search
+
+sns:
+  email: hanfangyuan_ustb@163.com
+  github: https://github.com/hanfangyuan4396
+  qq: 1025382786
+  wechat: hanfangyuan12138
