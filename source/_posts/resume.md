@@ -40,6 +40,28 @@ tags: resume
 
 **软著**：[膏体充填进度实时测量与可视化方法](/assets/files/soft.pdf)
 
+### 其他项目
+
+平时写了一些实用或者好玩的项目。
+
+**异起看**
+
+提供了一种多人同步播放本地视频的方法，网站链接：[异起看](http://video.huohuohuo.xyz/) 项目仓库：[watch_together](https://github.com/hanfangyuan4396/watch_together)
+
+**自动填写平安报**
+
+每天都需要填写重复的内容，太麻烦了。抓包得到上报的信息，使用脚本每天代替人工自动填报。项目仓库：[ustb-daily-with-wechat](https://github.com/hanfangyuan4396/ustb-daily-with-wechat)
+
+**微信消息推送机器人**
+
+利用企业微信接口，推送消息到微信，可以利用该机器人，监控网站并异常报警、推送天气、推送热点新闻、日程提醒等。
+
+项目仓库：[wechat-robot](https://github.com/hanfangyuan4396/wechat-robot)
+
+**hello_zu_an**
+
+这个是出于恶搞的心态写的，有一天看室友打游戏时打字喷人手速特别快，然后就利用python的pyaotogui库实现了自动键盘打字的小应用。项目仓库：[hello_zu_an](https://github.com/hanfangyuan4396/hello_zu_an)
+
 ### 专业技能
 
 **语言**：英语(CET-6)
