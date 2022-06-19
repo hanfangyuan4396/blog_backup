@@ -13,6 +13,7 @@ tags: resume
 <!-- more -->
 
 ### 项目经历
+[点击查看项目效果展示](/projects/index.html)
 
 **矿山膏体充填智能管理系统        前后端-Vue Python        2019.10-2022.02**
 
