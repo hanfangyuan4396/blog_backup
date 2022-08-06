@@ -31,6 +31,6 @@ jobs:
         # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
         github_token: ${{ secrets.GITHUB_TOKEN }}
         # Repository name to push. Default or empty value represents current github repository (${GITHUB_REPOSITORY})
-        repository: git@github.com:hanfangyuan4396/hanfangyuan4396.github.io.git
+        repository: hanfangyuan4396/hanfangyuan4396.github.io
         # Directory to change to before pushing.
         directory: public # optional, default is .
