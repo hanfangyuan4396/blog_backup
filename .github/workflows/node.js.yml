@@ -29,7 +29,7 @@ jobs:
       uses: ad-m/github-push-action@v0.6.0
       with:
         # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.TOKEN }}
         # Repository name to push. Default or empty value represents current github repository (${GITHUB_REPOSITORY})
         repository: hanfangyuan4396/hanfangyuan4396.github.io
         # Directory to change to before pushing.
