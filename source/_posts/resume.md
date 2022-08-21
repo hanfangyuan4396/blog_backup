@@ -7,21 +7,28 @@ tags: 简历
 ### 教育经历
 
 - **北京科技大学**    计算机与通信工程学院(计算机科学与技术)     硕士     **2020.09-2023.06**
+
   加权排名：13/144    荣誉奖项：研究生一等奖学金 ，推免入学。
+
 - **北京科技大学**    计算机与通信工程学院(通信工程)     本科     **2016.09-2020.06**
+
   加权排名：20/132    荣誉奖项：人民一等奖学金 互联网+创新创业优秀奖 优秀毕业生。
+
 <!-- more -->
 
 ### 实习经历
+
 **美团        测试开发        2022.06-至今**
 
 参与公司内部系统的开发工作，主要使用Vue框架进行web开发，具体工作：
+
 - 参加公司新人培训计划，学习公司的开发流程与规范，熟悉公司开发基础设施。
 
 - 完成内部系统新增组件、页面展示效果优化、文案修改等需求并上线。
 
 
 ### 项目经历
+
 [点击查看项目效果展示](/projects/index.html)
 
 **矿山膏体充填智能管理系统        前后端-Vue Python        2019.10-2022.02**
@@ -83,3 +90,77 @@ tags: 简历
 github： [hanfangyuan4396](https://github.com/hanfangyuan4396)
 
 邮箱：hanfangyuan_ustb@163.com
+
+
+### EDUCATION
+
+- **University of Science and Technology Beijing**        Computer Science and Technology Master        **2020.09-2023.06**
+
+  Rank：13/144    Honors & Awards：First-class scholarship
+
+- **University of Science and Technology Beijing**        Communication Engineering Bachelor        **2016.09-2020.06**
+
+  Rank：20/132     Honors & Awards：First-class scholarship, Outstanding graduate
+
+
+### PROFESSIONAL EXPERIENCE
+
+**Meituan        Quality Assurance        2022.06-Now**
+
+Develop web pages of the test platform with Vue.js, which is used by staff in Meituan to test program.
+
+- Participate in the training for the new staff of the company. Learn development procedures, specifications and tools.
+
+- Accomplish more than ten requirements such as developing components, updating page and optimizing display of page which are all online.
+
+
+### PROJECT EXPERIENCE
+
+[Click to see the project](/projects/index.html)
+
+**System for Mine Paste Backfilling           Vue Python           2019.10-2022.02**
+
+Develop a B/S structured paste backfilling task management and visualization system to assist production management and enable staff to observe the progress of paste backfilling in real time from a 3D perspective.
+
+- Implementing soft measurement algorithms for backfilling progress using methods such as Monte Carlo sampling. Estimation error of volume and height is less than 3%.
+
+- Develop and deploy the system with Django, MongoDB and Docker. Use Three.js to display the paste backfilling process. Use ffmpeg and flv.js to live video of mine.
+
+**System for Mine Point Cloud Processing        Vue Python        2021.10-Now**
+
+Develop a mine point cloud processing system for mine mapping.
+
+- Using PointNet （3D point cloud deep learning model） to automatically detect the target ball or other markers in the point cloud.
+
+- Develop a web application using Three.js and other frameworks, which can detect markers，transform and register mine point cloud. 
+
+
+### ACHIEVEMENT
+
+**Paper**：[Integrated three-dimensional visualization and soft-sensing system for underground paste backfilling](/assets/files/paper.pdf),（Tunnelling and Underground Space Technology,Top 5% Journal, IF: 5.915) (Algorithm, Experiment, Part of paper)
+
+**Patent**：[A method and system for real-time measurement and visualization of paste backfilling progress](/assets/files/patent.pdf)(under examination)
+
+**Software Copyright**：[A software for real-time measurement and visualization of paste backfilling progress](/assets/files/soft.pdf)
+
+
+### OTHER PROJECT
+
+Develop som interesting software in my spare time.
+
+**Watch together**: A website that provides a method to synchronize progress of the local video. 
+Website url: [Watch together](http://video.huohuohuo.xyz/) 
+Github: [watch_together](https://github.com/hanfangyuan4396/watch_together)
+
+**Wechat message robot**: Send message to wechat with api of wechat. It can be used to monitor website, send weather report and remind your agenda. [wechat-robot](https://github.com/hanfangyuan4396/wechat-robot)
+
+
+### SKILL
+
+**Language**: English(CET-6)
+
+blog：[CSDN](https://blog.csdn.net/weixin_44387339?type=blog)、[personal blog](http://blog.hanfangyuan.cn)
+
+github： [hanfangyuan4396](https://github.com/hanfangyuan4396)
+
+mail：hanfangyuan_ustb@163.com
