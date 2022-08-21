@@ -148,11 +148,9 @@ Develop a mine point cloud processing system for mine mapping.
 
 Develop som interesting software in my spare time.
 
-**Watch together**: A website that provides a method to synchronize progress of the local video. 
-Website url: [Watch together](http://video.huohuohuo.xyz/) 
-Github: [watch_together](https://github.com/hanfangyuan4396/watch_together)
+**Watch together**: A website that provides a method to synchronize progress of the local video. Website url: [Watch together](http://video.huohuohuo.xyz/) Github: [watch_together](https://github.com/hanfangyuan4396/watch_together)
 
-**Wechat message robot**: Send message to wechat with api of wechat. It can be used to monitor website, send weather report and remind your agenda. [wechat-robot](https://github.com/hanfangyuan4396/wechat-robot)
+**Wechat message robot**: Send message to wechat with api of wechat. It can be used to monitor website, send weather report and remind your agenda. Github: [wechat-robot](https://github.com/hanfangyuan4396/wechat-robot)
 
 
 ### SKILL
