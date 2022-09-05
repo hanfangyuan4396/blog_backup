@@ -85,7 +85,7 @@ tags: 简历
 
 - 英语CET-6(笔试成绩：513 口试成绩：B)
 
-- 熟悉Java，熟练使用Java集合数据结构
+- 熟悉Java，熟练使用Java集合数据结构，了解C++、Python、JavaScript
 
 - 熟悉MySQL事务、索引、多版本并发控制，了解 mongodb数据库基本使用
 
@@ -176,7 +176,7 @@ Develop som interesting software in my spare time.
 
 - English CET-6 (written test score: 513 oral test score: B) 
 
-- Familiar with Java; proficient in using Java collection data structures
+- Familiar with Java; proficient in using Java collection data structures; understand C++, Python, JavaScript
 
 - Familiar with MySQL transactions, indexing, multi-version concurrency control
 
