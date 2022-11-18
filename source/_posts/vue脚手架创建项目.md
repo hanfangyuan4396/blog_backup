@@ -7,6 +7,8 @@ tags: vue
 
 ### 安装脚手架
 ```shell
+npm config get registry # 查看镜像源
+npm config set registry https://registry.npm.taobao.org # 设置成淘宝镜像源
 npm install -g @vue/cli
 ```
 
