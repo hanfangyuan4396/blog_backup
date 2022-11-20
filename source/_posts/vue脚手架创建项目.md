@@ -1,6 +1,7 @@
 ---
 title: vue脚手架创建项目
 date: 2022-11-18 17:57:28
+reward: true
 tags: vue
 ---
 

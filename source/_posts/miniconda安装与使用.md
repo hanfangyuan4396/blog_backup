@@ -1,6 +1,7 @@
 ﻿---
 title: miniconda安装与使用
 date: 2020-10-19 15:46:00
+reward: true
 tags: conda
 ---
 

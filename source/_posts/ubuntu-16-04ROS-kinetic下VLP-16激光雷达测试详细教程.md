@@ -1,6 +1,7 @@
 ---
 title: ubuntu-16.04ROS-kinetic下VLP-16激光雷达测试详细教程
 date: 2022-06-06 15:46:00
+reward: true
 tags: 激光雷达
 ---
 # 1. 测试环境介绍

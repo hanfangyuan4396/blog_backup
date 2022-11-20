@@ -1,6 +1,7 @@
 ---
 title: java知识点
 date: 2020-07-06 22:09:17
+reward: true
 tags: java
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: 使用ffmpeg+nginx+flvjs实现web播放rtsp视频流
 date: 2022-05-27 15:36:40
+reward: true
 tags: 视频直播
 ---
 

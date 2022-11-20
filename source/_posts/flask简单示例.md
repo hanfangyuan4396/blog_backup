@@ -1,6 +1,7 @@
 ---
 title: flask简单示例
 date: 2022-11-19 18:34:04
+reward: true
 tags: flask
 ---
 

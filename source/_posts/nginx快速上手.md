@@ -1,6 +1,7 @@
 ﻿---
 title: nginx快速上手
 date: 2020-09-06 15:46:00
+reward: true
 tags: nginx
 ---
 
