@@ -1,5 +1,5 @@
 ---
-title: flask简单实例
+title: flask简单示例
 date: 2022-11-19 18:34:04
 tags: flask
 ---
