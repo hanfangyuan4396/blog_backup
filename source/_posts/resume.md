@@ -1,7 +1,6 @@
 ---
 title: 简历
 date: 2222-02-22 11:50:12
-reward: true
 tags: 简历
 ---
 
