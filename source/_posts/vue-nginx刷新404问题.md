@@ -6,6 +6,16 @@ tags:
     - nginx
 ---
 
+先说初步得到的结论，这只是我根据测试结果的推测，并没有阅读源码探究原因。在nginx如下配置中，有'/index'路由匹配规则
+```
+location /index {
+    alias  /home/hfy/dist;
+    index  index.html;
+}
+```
+由于'/index'中的**index为关键字，导致路由匹配发生异常**，与预期不符，把'/index'更改为'/home'，恢复正常
+
+
 ## 背景介绍
 
 vue项目只有一个组件，路由模式是history，路由中有一个根路径重定向配置，路由配置如下
@@ -46,6 +56,12 @@ location /index {
 
 ```
 /home/hfy/dist文件夹中存放的是build产物，包含css、fonts、js文件夹以及favicon.ico、index.html
+
+我添加上述 `location /index`规则是想解决刷新页面后404问题
+
+即通过url: example.com访问时，加载到index.html之后，前端路由会重定向到example.com/index，这时候刷新页面，浏览器会请求example.com/index。如果不添加`location /index`规则，nginx无法匹配到/index，会返回404。
+
+但是我添加该规则后遇到了下面的问题一。
 
 ## 问题描述
 ### 问题一
@@ -113,6 +129,7 @@ location / {
 
 - 通过url: example.com/index 访问项目时，同样命中上述规则，域名被root替换，访问的是/home/hfy/dist/中的index文件或者index文件夹，但是并不存在index文件或者index文件夹，所以报错404
 
+# 排查原因
 
 
 
