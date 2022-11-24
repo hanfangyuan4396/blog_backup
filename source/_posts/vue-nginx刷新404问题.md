@@ -1,6 +1,7 @@
 ---
 title: vue+nginx刷新404问题
 date: 2022-11-22 20:49:55
+reward: true
 tags:
     - vue
     - nginx
